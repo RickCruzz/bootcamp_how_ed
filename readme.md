@@ -29,3 +29,6 @@ Consumir dados de uma API, criação do requiriments.txt
 
 Aula 8 - 
 Consumo de dados da API do mercado bitcoin.
+
+Checkpoint01 -
+Consome dados através do Pacote fake_web_events em Python. Utilizando a AWS com o Kinesis Firehose, salvando num s3.
