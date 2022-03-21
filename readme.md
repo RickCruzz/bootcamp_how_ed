@@ -33,5 +33,8 @@ Consumo de dados da API do mercado bitcoin.
 Aula 13 - 
 Utilizando a biblioteca PSYCOPG2 conectar num AWS RDS inserir dados e com endpoints fazer uma replicação num bucket s3 gerando um parquet.
 
+Aula 19 -
+Subir um Airflow Localmente através do docker-compose, configurar e acessar o s3, baixar um arquivo CSV da base de dados do governo e salvar o mesmo no bucket s3.
+
 Checkpoint01 -
 Consome dados através do Pacote fake_web_events em Python. Utilizando a AWS com o Kinesis Firehose, salvando num s3.
